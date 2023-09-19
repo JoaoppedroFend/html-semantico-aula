@@ -9,15 +9,26 @@ p {
     
 }
 
+p:last-of-type {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+p:nth-of-type(2){
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+
+
+
 .paragrafo-de-artigo {
     background-color: #765827;
     color: #fffaf3;
-    border-radius: 20px;
+    
     padding: 20px;
-    margin: 0px
-    
-    
-    
+    margin: 0%;
 }
 
 .paragrafo-de-artigo + .paragrafo-de-artigo{
