@@ -1,0 +1,15 @@
+.titulo-de-pagina-flexbox {
+    color: #11114E;
+    line-height: 2;
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.paragrafo-flexbox{
+    background-color: #11114E;
+    border-radius: 0px;
+    padding: 20px;
+    color: aliceblue;
+}
